@@ -1,3 +1,9 @@
+FOODS
 pizza
 burgor 
 pasta
+
+MOVIES
+Revenent 
+Batman 
+Spiderman
